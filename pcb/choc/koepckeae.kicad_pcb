@@ -1834,7 +1834,7 @@
     (property "ki_keywords" "connector")
     (path "/e2e76fe8-6b28-4fc7-9cf1-de4f80ae525b")
     (attr through_hole)
-    (fp_text reference "J1" (at 0 0.5) (layer "F.SilkS")
+    (fp_text reference "J1" (at 0 0.5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bdc4f556-8c32-4022-94e1-a93f76bdab8c)
     )
@@ -1937,7 +1937,7 @@
     (property "ki_description" "Symbol for a Seeeduino Xiao nRF52840")
     (path "/7231a0f7-db97-4a00-9e32-92b5f24556af")
     (attr through_hole exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "U1" (at -6.5 11.65) (layer "F.SilkS")
+    (fp_text reference "U1" (at -6.5 11.65) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify right))
       (tstamp 61196fbb-a2e8-4903-bd07-d6c055e8af05)
     )
