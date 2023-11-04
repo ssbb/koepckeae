@@ -2,6 +2,8 @@
 
 ![PCB](./images/pcb.png)
 
+koepckeae is a 34 unibody split higihly inspired by Pete Johanson [Zaphod Lite](https://gitlab.com/lpgalaxy/zaphod/-/tree/main) but with hotswap, splay and reachy thumbs.
+
 ## BOM
 
 | Qty | Name                                                        | Source                                                                                                             |
