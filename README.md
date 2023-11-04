@@ -8,7 +8,7 @@
 |-----|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1   | PCB                                                         | [gerbers](pcb/choc/koepckeae_gerbers.zip)                                                                          |
 | 1   | XIAO nRF52840                                               | [seed studio](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)                                     |
-| 1   | 74HC595D shift register                                     | [LCSC](https://www.lcsc.com/product-detail/Shifting-Register_Nexperia-74HC595D-118_C5947.html)                     |
+| 1   | 74HC595D shift register (SOIC-16)                           | [LCSC](https://www.lcsc.com/product-detail/Shifting-Register_Nexperia-74HC595D-118_C5947.html)                     |
 | 1   | PCM12 power switch                                          | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_C-K-PCM12SMTR_C221841.html)                              |
 | 1   | Panasonic EVQPUC02K reset button                            | [LCSC](https://www.lcsc.com/product-detail/_PANASONIC-_C79174.html)                                                |
 | 2   | 1x1 Mill-Max Spring Loaded Header (0906-2-15-20-75-14-11-0) | [Digikey](https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/0906-2-15-20-75-14-11-0/1147050)  |
@@ -16,7 +16,7 @@
 | 1   | JST PH-2.0 battery socket                                   | [LCSC](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-S2B-PH-K-S-LF-SN_C173752.html) |
 | 1   | 702025 300 mAh battery                                      |                                                                                                                    |
 | 34  | 1N4148W diode                                               | [LCSC](https://www.lcsc.com/product-detail/Switching-Diode_MDD-Microdiode-Electronics-1N4148W_C84367.html)         |
-| 34  | Kailh Choc hotswap sockets                                             | [Aliexpress](https://aliexpress.com/item/33023283633.html?sku_id=10000000883911874)                                |
+| 34  | Kailh Choc hotswap sockets                                  | [Aliexpress](https://aliexpress.com/item/33023283633.html?sku_id=10000000883911874)                                |
 
 Max battery dimensions are 29mm x 21mm x 8mm. Ideally get a battery with JST connector but double check polarity on PCB.
 
