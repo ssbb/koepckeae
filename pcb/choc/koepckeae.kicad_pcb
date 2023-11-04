@@ -85,7 +85,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "kitsune_gerbers")
+      (outputdirectory "koepckeae_gerbers")
     )
   )
 
@@ -2494,7 +2494,7 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 39e89d81-f836-4574-8851-abcd8222fd42))
     (fp_line (start 3.95 6.25) (end 3.95 -1.35)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp f432cd9e-5b75-4c2b-90b3-210ab8764ac6))
-    (pad "1" thru_hole roundrect (at 0 0 270) (size 1.2 1.75) (drill 0.75) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.208333)
+    (pad "1" thru_hole roundrect (at 0 0 270) (size 1.2 1.75) (drill 0.75) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.2083333333)
       (net 7 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp cfe55e7f-129b-440a-810c-a17f2001c4b5))
     (pad "2" thru_hole oval (at 2 0 270) (size 1.2 1.75) (drill 0.75) (layers "*.Cu" "*.Mask")
       (net 10 "VBAT") (pinfunction "Pin_2") (pintype "passive") (tstamp ca211ecd-6d03-428a-b8e6-3fade3f0c9f8))
