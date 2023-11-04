@@ -1,5 +1,7 @@
 # koepckeae
 
+![PCB](./images/pcb.png)
+
 ## BOM
 
 | Qty | Name            | Source                                                                                                             |
@@ -31,4 +33,4 @@
 | 1   | 1 x 5 Mill-Max Spring Loaded Header (825-22-005-10-001101) | [Digikey](https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/825-22-005-10-001101/6149696) |
 | 4   | M2.5x6 male-female nylon standoff                          | [Aliexpress](https://aliexpress.com/item/32871403400.html?sku_id=10000002420611426)                            |
 | 4   | M2.5 nylon nut                                             | [Aliexpress](https://aliexpress.com/item/32868992270.html?sku_id=10000010058105677)                            |
-| 4   | M2.5x6 philips nylon pan head screws                       | [Aliexpress](https://aliexpress.com/item/32870030598.html?sku_id=10000002668418327)                            |
+| 4   | M2.5x6 nylon screw                                         | [Aliexpress](https://aliexpress.com/item/32870030598.html?sku_id=10000002668418327)                            |
