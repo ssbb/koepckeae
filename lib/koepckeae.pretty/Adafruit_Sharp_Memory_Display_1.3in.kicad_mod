@@ -58,27 +58,27 @@
   (pad "7" thru_hole circle (at 5.08 17.018) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp fab6362d-0c9a-4130-abad-702cfef00fee))
   (pad "8" thru_hole circle (at 7.62 17.018) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp c6822c77-f8a8-4e4c-b4b4-451dda24b822))
   (pad "9" thru_hole circle (at 10.16 17.018) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 82004cf9-d2d1-49c7-9cf4-8926f7a7928a))
-  (model "${KIPRJMOD}/../../koepckeae.3dshapes/3502 Sharp Memory Display Breakout.step"
+  (model "${KIPRJMOD}/../../lib/koepckeae.3dshapes/3502 Sharp Memory Display Breakout.step"
     (offset (xyz 20 -19.5 7.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/../../koepckeae.3dshapes/mounting-standoff-m25-6mm.step"
+  (model "${KIPRJMOD}/../../lib/koepckeae.3dshapes/mounting-standoff-m25-6mm.step"
     (offset (xyz 17 -16.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/../../koepckeae.3dshapes/mounting-standoff-m25-6mm.step"
+  (model "${KIPRJMOD}/../../lib/koepckeae.3dshapes/mounting-standoff-m25-6mm.step"
     (offset (xyz 17 16.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/../../koepckeae.3dshapes/mounting-standoff-m25-6mm.step"
+  (model "${KIPRJMOD}/../../lib/koepckeae.3dshapes/mounting-standoff-m25-6mm.step"
     (offset (xyz -17 16.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/../../koepckeae.3dshapes/mounting-standoff-m25-6mm.step"
+  (model "${KIPRJMOD}/../../lib/koepckeae.3dshapes/mounting-standoff-m25-6mm.step"
     (offset (xyz -17 -16.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

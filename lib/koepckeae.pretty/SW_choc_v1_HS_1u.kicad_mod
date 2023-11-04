@@ -172,17 +172,17 @@
   (pad "2" thru_hole circle (at -5 3.75) (size 3.3 3.3) (drill 3) (layers "*.Cu" "B.Mask") (tstamp 85ee64db-7b4c-4fb7-9187-390429b8f734))
   (pad "3" smd rect (at -1.65 -4.7) (size 1.4 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f0d6e8cb-5360-4d13-8aea-8b2991fbf109))
   (pad "4" smd rect (at 1.65 -4.7) (size 1.4 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e4e10977-6838-448b-b766-0a0d3dd781f7))
-  (model "${KIPRJMOD}/../../koepckeae.3dshapes/Kailh Choc Low Profile Switch.step"
+  (model "${KIPRJMOD}/../../lib/koepckeae.3dshapes/Kailh Choc Low Profile Switch.step"
     (offset (xyz 0 0 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/../../koepckeae.3dshapes/PG1350-socket.STEP"
+  (model "${KIPRJMOD}/../../lib/koepckeae.3dshapes/PG1350-socket.STEP"
     (offset (xyz 5 -3.75 -1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "${KIPRJMOD}/../../koepckeae.3dshapes/Kailh Choc FunkMonk 1u.step"
+  (model "${KIPRJMOD}/../../lib/koepckeae.3dshapes/Kailh Choc FunkMonk 1u.step"
     (opacity 0.9500)    (offset (xyz 0 0 2))
     (scale (xyz 0.9777 0.9217877095 1))
     (rotate (xyz 0 0 0))
