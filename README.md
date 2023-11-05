@@ -2,7 +2,7 @@
 
 ![PCB](./images/pcb.png)
 
-koepckeae is a 34-key unibody split keyboard higihly inspired by Pete Johanson's [Zaphod Lite](https://gitlab.com/lpgalaxy/zaphod/-/tree/main), featuring hotswap, splay and reachy thumbs.
+koepckeae is a 34-key unibody split keyboard higihly inspired by Pete Johanson's [Zaphod Lite](https://gitlab.com/lpgalaxy/zaphod/-/tree/main), featuring hotswap support, splay, and reachy thumbs.
 
 ## BOM
 
