@@ -9,7 +9,7 @@ koepckeae is a 34-key unibody split keyboard higihly inspired by Pete Johanson's
 | Qty | Name                                                        | Source                                                                                                             |
 |-----|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1   | PCB                                                         | [gerbers](pcb/choc/koepckeae_gerbers.zip)                                                                          |
-| 1   | XIAO nRF52840                                               | [seed studio](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)                                     |
+| 1   | XIAO nRF52840                                               | [Digikey](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010448/16652893)                   |
 | 1   | 74HC595D shift register (SOIC-16)                           | [LCSC](https://www.lcsc.com/product-detail/Shifting-Register_Nexperia-74HC595D-118_C5947.html)                     |
 | 1   | PCM12 power switch                                          | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_C-K-PCM12SMTR_C221841.html)                              |
 | 1   | Panasonic EVQPUC02K reset button                            | [LCSC](https://www.lcsc.com/product-detail/_PANASONIC-_C79174.html)                                                |
