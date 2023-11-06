@@ -4,6 +4,9 @@
 
 koepckeae is a 34-key unibody split keyboard higihly inspired by Pete Johanson's [Zaphod Lite](https://gitlab.com/lpgalaxy/zaphod/-/tree/main), featuring hotswap support, splay, and spaced out thumbs.
 
+> **WARNING**
+> This repo is designed to be experimental. It's not a solid solution - I am planning to change things to fit my needs.
+
 ## BOM
 
 | Qty | Name                                                        | Source                                                                                                             |
